@@ -1,0 +1,159 @@
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csprojResolveAssemblyReference.cache
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dangnhap.resources
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csproj.GenerateResource.Cache
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\NgocHan\Desktop\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csprojResolveAssemblyReference.cache
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dangnhap.resources
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.danhsachmonhoc.resources
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.diem.resources
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.giaodienchinh.resources
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hockynamhoc.resources
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hosohocsinh.resources
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.khoi.resources
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lop.resources
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.thongtingiaovien.resources
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Xếp_Loại.resources
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csproj.GenerateResource.Cache
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\NgocHan\AppData\Local\GitHub\TutorialRepository_a66c3719071da6d865a984bb8d6bfb5bcd775ec8\new-repo\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csprojResolveAssemblyReference.cache
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dangnhap.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.danhsachmonhoc.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.diem.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.giaodienchinh.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hockynamhoc.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hosohocsinh.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.khoi.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lop.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.thongtingiaovien.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Xếp_Loại.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csproj.GenerateResource.Cache
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tracuuhocsinh.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tracuugiaovien.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.baocaohocsinh.resources
+D:\New folder (3)\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.baocaogiaovien.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csprojResolveAssemblyReference.cache
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.baocaogiaovien.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.baocaohocsinh.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dangnhap.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.danhsachmonhoc.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.diem.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.giaodienchinh.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hockynamhoc.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hosohocsinh.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.khoi.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lop.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.thongtingiaovien.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tracuugiaovien.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tracuuhocsinh.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Xếp_Loại.resources
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csproj.GenerateResource.Cache
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\Bài Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csprojResolveAssemblyReference.cache
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.baocaogiaovien.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.baocaohocsinh.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dangnhap.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.danhsachmonhoc.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.diem.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.giaodienchinh.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hockynamhoc.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hosohocsinh.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.khoi.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lop.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.thongtingiaovien.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tracuugiaovien.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tracuuhocsinh.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Xếp_Loại.resources
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csproj.GenerateResource.Cache
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+E:\Bài Báo Cáo CĐ1\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+E:\Bài Báo Cáo CĐ1 - Copy\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Bài Báo Cáo CĐ1 - Copy\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Bài Báo Cáo CĐ1 - Copy\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Cai moi\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Cai moi\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Cai moi\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Cai moi_xong\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Cai moi_xong\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Cai moi_xong\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csprojResolveAssemblyReference.cache
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.baocaogiaovien.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.baocaohocsinh.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dangnhap.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.danhsachmonhoc.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.diem.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.giaodienchinh.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hockynamhoc.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hosohocsinh.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.khoi.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lop.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.thongtingiaovien.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tracuugiaovien.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tracuuhocsinh.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Xếp_Loại.resources
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csproj.GenerateResource.Cache
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+E:\Cai moi_tìm ko ra hs\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.baocaogiaovien.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.baocaohocsinh.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Dangnhap.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.danhsachmonhoc.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.diem.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.giaodienchinh.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hockynamhoc.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hosohocsinh.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.khoi.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lop.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.thongtingiaovien.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tracuugiaovien.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.tracuuhocsinh.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Xếp_Loại.resources
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csproj.GenerateResource.Cache
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Cái mới ko tìm ra\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\baocao.csprojResolveAssemblyReference.cache
+E:\BCCĐ_29_4_2016\Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\BCCĐ_29_4_2016\Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\BCCĐ_29_4_2016\Báo Cáo CĐ\FinalProject\FinalProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
